@@ -19,9 +19,4 @@ const result = ref(0);
     <input id="result" class="..." type="text" v-model="result" />
   </div>
 </template>
-<style>
-.number {
-  padding: 0.6em 1.2em;
-  width: 50px;
-}
-</style>
+<style></style>
